@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gallery folder="graphics">
+	<media name="Get Plugged In" thumb="plugged">
+		<date>March 2006</date>
+		<meta>Adobe Illustrator</meta>
+		<caption>This is an unofficial poster for the IUPUI New Media program. The cord leads the viewer to read a small description of the program.</caption>
+	</media>
+	<media name="Smoking Man" thumb="smokingman">
+		<date>January 2006</date>
+		<meta>Adobe Illustrator</meta>
+		<caption>This is cartoon illustration in a mosaic-style. The blocky shapes where outlined quickly to better simulate randomness.</caption>
+	</media>
+	<media name="Evolutionize Nuclear Energy" thumb="nuclear">
+		<date>December 2005</date>
+		<meta>Adobe Photoshop, Adobe Illustrator</meta>
+		<caption></caption>
+	</media>
+	<media name="The Interpretation of Dreams" thumb="dreams">
+		<date>November 2005</date>
+		<meta>Adobe Photoshop</meta>
+		<caption>The book cover is a rendition of Pharaoh's dream interpreted by Joseph from the Bible (Genesis 41:5-7).</caption>
+	</media>
+	<media name="Jack O'Lantern" thumb="pumpkin">
+		<date>October 2005</date>
+		<meta>Adobe Illustrator</meta>
+		<caption>Darth Vader is cut out of a pumpkin in honor of Halloween.</caption>
+	</media>
+	<media name="Checkers" thumb="checkers">
+		<date>October 2005</date>
+		<meta>Adobe Illustrator</meta>
+		<caption>This piece stresses perspective and a simple color scheme. The red of the checkers moves the viewer's eyes to the King, subtly showing it is in perfect position to destroy the black checkers.</caption>
+	</media>
+	<media name="History of Nintendo" thumb="stamps">
+		<date>October 2005</date>
+		<meta>Adobe Photoshop</meta>
+		<caption>Show your Sony pride by declaring "Nintendo is History", since they have no comeback to the PSP. In retrospect, I was very wrong.</caption>
+	</media>
+	<media name="Star Wars Imperial March" thumb="starwars">
+		<date>October 2005</date>
+		<meta>Adobe Illustrator</meta>
+		<caption></caption>
+	</media>
+	<media name="Personal Logo" thumb="logo">
+		<date>September 2005</date>
+		<meta>Adobe Illustrator</meta>
+		<caption></caption>
+	</media>
+	<media name="College Compass" thumb="compass">
+		<date>March 2005</date>
+		<meta>Adobe Illustrator</meta>
+		<caption></caption>
+	</media>
+	<media name="Risk Cards" thumb="risk">
+		<date>November 2004</date>
+		<meta>Adobe Photoshop, Adobe Illustrator</meta>
+		<caption></caption>
+	</media>
+	<media name="Potato Head" thumb="potato">
+		<date>October 2004</date>
+		<meta>Adobe Photoshop, Adobe Illustrator</meta>
+		<caption></caption>
+	</media>
+	<media name="Eternal Construction" thumb="construction">
+		<date>September 2004</date>
+		<meta>Adobe Photoshop, Adobe Illustrator</meta>
+		<caption></caption>
+	</media>
+		<media name="Grendal's Lair" thumb="grendal">
+		<date>August 2004</date>
+		<meta>Adobe Photoshop</meta>
+		<caption></caption>
+	</media>
+	<media name="Martha Stewart Living" thumb="martha">
+		<date>April 2004</date>
+		<meta>Adobe Illustrator</meta>
+		<caption></caption>
+	</media>
+</gallery>

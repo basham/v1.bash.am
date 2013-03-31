@@ -1,0 +1,18 @@
+&ColorA=0x18507A&
+&ColorB=0x0B2538&
+
+// GREEN
+// ColorA = 0x127E1D
+// ColorB = 0x0A1E04
+
+// ORANGE
+// ColorA = 0xCB841B
+// ColorB = 0x661B09
+
+// BLUE
+// ColorA = 0x18507A
+// ColorB = 0x0B2538
+
+// RED
+// ColorA = 0xD50000
+// ColorB = 0x660000
